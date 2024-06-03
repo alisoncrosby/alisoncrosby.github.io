@@ -20,6 +20,7 @@ skin: auto
 
 header_pages:
 - portfolio.md
+- resume.md
 
 # gem "github-pages", group: :jekyll_plugins
 
