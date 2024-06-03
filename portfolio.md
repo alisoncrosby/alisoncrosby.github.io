@@ -1,3 +1,9 @@
+---
+layout: page 
+title: Portfolio
+permalink: /portfolio/
+---
+
 # Reserach Projects
 this is a list of my graduate research 
 
