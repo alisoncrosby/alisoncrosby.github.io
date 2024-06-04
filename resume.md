@@ -1,7 +1,8 @@
-#Resume 
+# Resume 
 Download the PDF version here
 
-## Education
+## **Education**
+------
 ### University of California, Santa Cruz Oct. 2020 – Present
 #### Ph.D. Candidate in the Computational Media Department 
 #### Advised by Dr. Sri Kurniawan ASSIST Lab
@@ -29,7 +30,7 @@ Download the PDF version here
 ### Fire Evacuation VR | Current
 - Interviewed wildfire evacuees and created a 3D simulation in Unity based on the recorded experiences to create a VR
 evacuation experience.
--- Loh, Z., Crosby, A., Kurniawan, S., & Castro, S. C. (2023, December). Toward Evacuation Training in Virtual Reality: Requirements
+  - Loh, Z., **Crosby, A.**, Kurniawan, S., & Castro, S. C. (2023, December). Toward Evacuation Training in Virtual Reality: Requirements
 Gathering for Wildfire Experiences. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (p. 21695067231192209).
 Sage CA: Los Angeles, CA: SAGE Publications.
 
@@ -40,16 +41,22 @@ telepresence work for deep sea exploration.
 ### Ocean Vision AI | 2022
 - Applied a Human-Centered Design approach to pinpoint critical issues within the field of deep-sea imaging to inform the
 development of an AI-assisted annotation platform.
--- Crosby, A., Orenstein, E. C., Poulton, S. E., Bell, K. L., Woodward, B., Ruhl, H., ... & Forbes, A. G. (2023, April). Designing Ocean
+  - **Crosby, A.**, Orenstein, E. C., Poulton, S. E., Bell, K. L., Woodward, B., Ruhl, H., ... & Forbes, A. G. (2023, April). Designing Ocean
 Vision AI: An Investigation of Community Needs for Imaging-based Ocean Conservation. In Proceedings of the 2023 CHI Conference on
 Human Factors in Computing Systems (pp. 1-16).
 
 ### Underwater Teleoperation with VR | 2021
 - Assisted in an empirical user study comparing Mono-and Stereoscopic VR and Desktop conditions for catching midwater
 creatures with Remotely Operated Vehicles.
--- Elor, A., Thang, T., Hughes, B. P., Crosby, A., Phung, A., Gonzalez, E., ... & Takayama, L. (2021, December). Catching Jellies in
+  - Elor, A., Thang, T., Hughes, B. P., **Crosby, A.**, Phung, A., Gonzalez, E., ... & Takayama, L. (2021, December). Catching Jellies in
 Immersive Virtual Reality: A Comparative Teleoperation Study of ROVs in Underwater Capture Tasks. In Proceedings of the 27th ACM
 Symposium on Virtual Reality Software and Technology (pp. 1-10).
 
 ## Skills
-#### User Research, Interviews & Surveys, Qualtrics, Thematic Analysis, Game Design, Unity VR, 
+- User Research, 
+- Interviews & Surveys, 
+- Qualtrics, 
+- Thematic Analysis, 
+- Game Design, 
+- Unity VR,
+- R
