@@ -8,6 +8,8 @@ I am a Human-Computer Interaction (HCI) researcher passionate about User-Centere
 -----
 [Personal Email](mailto:arcrosby3@gmail.com) and [University Email](mailto:arcrosby@ucsc.edu)
 
+[Alternative Website](https://arcrosby3.wixsite.com/alison-crosby)
+
 [LinkedIn](https://www.linkedin.com/in/alisoncrosby/)  
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OEEzFToAAAAJ)
