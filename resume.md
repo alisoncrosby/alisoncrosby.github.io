@@ -1,5 +1,6 @@
 Download the PDF version here.
 
+------
 ## **Education**
 ------
 ### University of California, Santa Cruz Oct. 2020 – Present
@@ -8,6 +9,7 @@ Download the PDF version here.
 ### The University of California, Merced Aug. 2017 – May 2019
 #### *BA in Cognitive Science* 
 
+------
 ## **Experience**
 ------
 ### Teaching Assistant Santa Cruz, CA
@@ -26,6 +28,7 @@ Download the PDF version here.
 - Worked closely with clients to create guidelines and training materials for vendor annotation teams.
 - Analyzed the annotation team’s results and provided weekly feedback.
 
+------
 ## **Research Projects**
 ------
 ### Fire Evacuation VR | *Current*
@@ -53,7 +56,9 @@ creatures with Remotely Operated Vehicles.
 Immersive Virtual Reality: A Comparative Teleoperation Study of ROVs in Underwater Capture Tasks. In Proceedings of the 27th ACM
 Symposium on Virtual Reality Software and Technology (pp. 1-10).
 
-## Skills
+------
+## **Skills**
+------
 - User Research, 
 - Interviews & Surveys, 
 - Qualtrics, 
