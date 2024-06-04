@@ -1,3 +1,9 @@
+---
+layout: page 
+title: Resume
+permalink: /resume/
+---
+
 Download the PDF version here.
 
 ------
